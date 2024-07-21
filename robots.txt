@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://merberyom.github.io/sitemap
+Sitemap: https://merberyom.github.io/app/sitemap
+Sitemap: https://merberyom.github.io/assets/sitemap
+Sitemap: https://merberyom.github.io/css/sitemap
+Sitemap: https://merberyom.github.io/includes/sitemap
+Sitemap: https://merberyom.github.io/item/sitemap
+Sitemap: https://merberyom.github.io/src/sitemap
